@@ -1,4 +1,4 @@
-
+<img src="https://www.crushpixel.com/big-static14/preview4/abstract-vector-background-polygonal-space-1767767.jpg" width="100%" ><br>
 <h1 align="center">Hi 👋, I'm Priti Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>>
 
