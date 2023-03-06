@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prititi&" alt="prititi" /></p>
  -->
  
- <h1 align="center">Hi 👋, I'm Priti Tiwari</h1>
+<!--  <h1 align="center">Hi 👋, I'm Priti Tiwari</h1>
 <h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prititi&label=Profile%20views&color=0e75b6&style=flat" alt="prititi" /> </p>
@@ -57,4 +57,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prititi&show_icons=true&locale=en" alt="prititi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prititi&" alt="prititi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prititi&" alt="prititi" /></p> -->
