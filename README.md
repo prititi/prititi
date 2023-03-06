@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priti</h1>
 <br/>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <h2>- Full Stack Web Developer skilled in Backend.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 See my Portfolio here [Portfolio](https://hurmitg.github.io/)
+- 👨‍💻 See my Portfolio here [Portfolio]
 
 - 📫 Reach me at **pt446914@gmail.com**
 
