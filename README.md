@@ -38,8 +38,7 @@
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" /> -->
-<!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/> -->
+
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" align="center" style="paddding : 5px;" alt="TypeScript" />
 <br/>
 <br/>
@@ -86,8 +85,8 @@
   <br/>
   
 <p align="center">
-    <a href="https://github.com/prititi/github-readme-stats"><img alt="Priti;s Github Stats" src="https://github-readme-stats.vercel.app/api?username=prititi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/hurmitg/github-readme-stats"><img alt="Hurmit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurmitg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    <a href="https://github.com/prititi/github-readme-stats"><img alt="Priti;s Github Stats" src="https://github-readme-stats.vercel.app/api?username=prititi&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
  </p> 
  <br/>
 
