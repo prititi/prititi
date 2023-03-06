@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **pt446914@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/drive/u/1/my-drive)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1z1ItRUkLo_LOThfF9EpdSZgE46Ed3DfC/view?usp=sharing)
 
 - ⚡ Fun fact - *I love Writing 🖊️*
 
