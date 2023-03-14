@@ -82,7 +82,6 @@
 <p align="center">
 <!--     <a href="https://github.com/prititi/github-readme-streak-stats"> -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prititi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    alt="prititi" />
 </p>
 
 
