@@ -12,8 +12,6 @@
 
 
 
-- 👨‍💻 See my Portfolio here [Portfolio]
-
 - 📫 Reach me at **pt446914@gmail.com**
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/1z1ItRUkLo_LOThfF9EpdSZgE46Ed3DfC/view?usp=sharing)
@@ -22,7 +20,13 @@
 
 -  🌎 Let's Create something the World needs 🌎
 
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/priti-tiwari-5149b8255/)
+
+<p> <a href="https://www.linkedin.com/in/priti-tiwari-5149b8255/"
+" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
+  <a href="https://prititi.github.io/" target="text-decoration:none">
+   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+</p>
 
 
 <br/>
