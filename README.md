@@ -91,11 +91,13 @@
 <!--     <a href="https://github.com/prititi/github-readme-stats"> -->
      <img alt="Priti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prititi&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prititi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
+ 
 
+ <p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prititi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="prititi" /></p>
  </p> 
  <br/>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prititi&theme=nord_bright" alt="prititi" /></p>
+
 <br/>
 <br/>
 
