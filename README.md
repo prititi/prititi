@@ -95,7 +95,7 @@
  </p> 
  <br/>
 
-
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prititi&theme=nord_bright" alt="prititi" /></p>
 <br/>
 <br/>
 
