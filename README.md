@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prititi&label=Profile%20views&color=0e75b6&style=flat" alt="prititi" /> </p>
-
+<br/>
 
 
 - 📫 Reach me at **pt446914@gmail.com**
