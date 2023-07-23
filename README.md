@@ -8,10 +8,10 @@
 <h2>- Full Stack Web Developer skilled in Backend.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
 <img align="right" alt "Coding" width="400" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prititi&label=Profile%20views&color=0e75b6&style=flat" alt="prititi" /> </p>
 <br/>
+
+
 <br/>
 
 - 📫 Reach me at **pt446914@gmail.com**
@@ -21,7 +21,6 @@
 - ⚡ Fun fact - *I love Writing 🖊️*
 
 -  🌎 Let's Create something the World needs 🌎
-
 
 <p> <a href="https://www.linkedin.com/in/priti-tiwari-5149b8255/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
